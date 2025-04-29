@@ -1,0 +1,76 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Max Payne 3 - By Karan SWE",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.png",
+      "theme_tab_background": "theme_tab_background.png",
+      "theme_frame_overlay": "theme_frame_overlay.png"
+    },
+    "colors": {
+      "frame": [
+        255,
+        192,
+        203
+      ],
+      "ntp_background": [
+        255,
+        255,
+        255
+      ],
+      "tab_text": [
+        110,
+        110,
+        110
+      ],
+      "tab_background_text": [
+        71,
+        71,
+        71
+      ],
+      "bookmark_text": [
+        71,
+        71,
+        71
+      ],
+      "ntp_text": [
+        0,
+        0,
+        0
+      ],
+      "ntp_link": [
+        6,
+        55,
+        116
+      ],
+      "ntp_header": [
+        150,
+        150,
+        150
+      ],
+      "toolbar": [
+        171,
+        251,
+        255
+      ],
+      "toolbar_text": [
+        60,
+        64,
+        67
+      ],
+      "button_background": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "tints": {},
+    "properties": {
+      "ntp_background_alignment": "top",
+      "ntp_background_repeat": "no-repeat"
+    }
+  },
+  "description": "An awesome Max Payne 3 theme for the Google Chrome Browser."
+}
